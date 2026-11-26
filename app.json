@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Grounded",
+    "slug": "grounded",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.yourname.grounded" },
+    "platforms": ["ios"]
+  }
+}
